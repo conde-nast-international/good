@@ -1,5 +1,5 @@
 {
-  "name": "good",
+  "name": "@condenast/good",
   "description": "Server and process monitoring plugin",
   "version": "8.1.1",
   "repository": "git://github.com/hapijs/good",
